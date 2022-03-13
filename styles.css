@@ -79,3 +79,19 @@ p{
 .login a:hover{
   color:white;
 }
+@media (max-width: 768px) {
+  .login
+  {
+    width:300px;
+    height:300px;
+    color: white;
+    background:black ;
+    position: absolute;
+    left:30%;
+    top:20%;
+    border-radius: 10px;
+
+
+  }
+}
+
